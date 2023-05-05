@@ -15,5 +15,9 @@ namespace GameUnits
             Health--;
 
         }
+        public override string ToString()
+        {
+            return $"{Health} {Cost} {AttackPower} {XP}";
+        }
     }
 }

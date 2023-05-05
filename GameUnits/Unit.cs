@@ -17,5 +17,9 @@ namespace GameUnits
         {
             return $"Moved: {movement}";
         }
+        public override string ToString()
+        {
+            return $"{Health} {Cost}";
+        }
     }
 }
