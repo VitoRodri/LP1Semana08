@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructWithRef", "StructWith
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniGame", "MiniGame\MiniGame.csproj", "{BF627850-91CD-403D-9D21-973FB227D9E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameUnits", "GameUnits\GameUnits.csproj", "{D6245D2C-AD2E-488F-BCEC-831E11274A29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{26122273-859C-44DE-A8B4-24D7E6ACEB61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{BF627850-91CD-403D-9D21-973FB227D9E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF627850-91CD-403D-9D21-973FB227D9E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF627850-91CD-403D-9D21-973FB227D9E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6245D2C-AD2E-488F-BCEC-831E11274A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6245D2C-AD2E-488F-BCEC-831E11274A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6245D2C-AD2E-488F-BCEC-831E11274A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6245D2C-AD2E-488F-BCEC-831E11274A29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26122273-859C-44DE-A8B4-24D7E6ACEB61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26122273-859C-44DE-A8B4-24D7E6ACEB61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26122273-859C-44DE-A8B4-24D7E6ACEB61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26122273-859C-44DE-A8B4-24D7E6ACEB61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
